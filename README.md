@@ -189,5 +189,3 @@ This enables:
   - Risk alerts  
 
 ---
-
-## 📂 Project Structure
